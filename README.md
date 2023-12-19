@@ -3,8 +3,7 @@
 </p>
 
 <h1 align = "center">Understanding & Building Intuition for DNS</h1>
-This lab demonstrates the use of DNS and how to configure it. Domain Name System is a naming database in which internet domain names are located and translated into IP Addresses. It maps the name people use to locate a website to the IP address that a computer uses to locate that website. When configured and installed, we'll perform excercises with the client and domain controller virtual machines in order to understand DNS more
-.
+This lab demonstrates the use of DNS and how to configure it. Domain Name System is a naming database in which internet domain names are located and translated into IP Addresses. It maps the name people use to locate a website to the IP address that a computer uses to locate that website. When configured and installed, we'll perform excercises with the client and domain controller virtual machines in order to understand DNS more.
 <br />
 
 <h2>Environments and Technologies Used</h2>
