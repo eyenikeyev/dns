@@ -32,3 +32,5 @@ This lab demonstrates the use of DNS and how to configure it. Domain Name System
 </ul>
 
 <br />
+The "A" in A Record stands for address and this is the most fundamental type of DNS record: it indicates the IP address of a given domain. They only hold IPv4 addresses.
+</p>
