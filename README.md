@@ -30,5 +30,6 @@ This lab demonstrates the use of DNS and how to configure it. Domain Name System
 
 <h3>A-Record</h3>
 
-</p>
 <p>
+<p>
+  <ul>
