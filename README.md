@@ -26,7 +26,7 @@ This lab demonstrates the use of DNS and how to configure it. Domain Name System
 
 <h2>DNS Exercises</h2>
 
-<!-- <img src = "" width = 80% height = 80% /> -->
+
 
 <h3>A-Record</h3>
 
