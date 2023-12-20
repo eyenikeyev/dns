@@ -81,3 +81,12 @@ Close command prompt and open it as administrator, enter ipconfig /flushdns. Obs
 Ping mainframe again, observe the address of the new record. Enter ipconfig /displaydns, observe the A record information
 <img src="https://i.imgur.com/WC4kHRH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+</p>
+
+<br />
+
+<h3>CNAME Record</h3>
+
+<p>
+  <ul>
+<p>
