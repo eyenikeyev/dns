@@ -44,7 +44,7 @@ The same results happens if we attempt an nslookup of the mainframe (command lin
 <p>
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 <p>
-Right click on the page and create a New Host (A or AAA). Name the host mainframe and IP Address the same as domain controller. Then Add Host and refresh the DNS server so the new record can be upudated.
+Right click on the page and create a New Host (A or AAA). Name the host mainframe and IP Address the same as domain controller. Then Add Host and refresh the DNS server so the new record can be updated.
 <p>
 <img src="https://i.imgur.com/56KGMBo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
@@ -91,4 +91,8 @@ Ping mainframe again, observe the address of the new record. Enter ipconfig /dis
 
 <p>
 A canonical name (CNAME) record points from a domain to another domain, never to an IP Address.
+<p>
+To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
+
+Right click on the page and create a New Alias (CNAME). Name the alias search and the fully qualified domain name to a website such as www.google.com. Enter the information and refresh the DNS server so the new record can be updated
 <p>
