@@ -106,7 +106,7 @@ Open a web browser, like microsoft edge and enter search.mydomain.com. Notice th
 <p>
 <img src="https://i.imgur.com/ctlitY8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-Enter ipconfig /displaydns, notice theres too much cache. Then enter ipconfig /flushdns to clear it out. Ping search again and enter ipconfig /flushdns. The ipconfig /displaydns, observe the results
+Enter ipconfig /displaydns, notice theres too much cache. Then enter ipconfig /flushdns to clear it out. Ping search again and enter ipconfig /flushdns. Then ipconfig /displaydns, observe the results
 <p>
 <img src="https://i.imgur.com/d34gHA8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
