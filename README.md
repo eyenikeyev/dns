@@ -51,3 +51,8 @@ Right click on the page and create a New Host (A or AAA). Name the host mainfram
 In the Client vm on Command Prompt ping mainframe again, you'll see that its working
 <p>  
 <img src="https://i.imgur.com/Cn1oveu.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Perform nslookup
+<p>
+<img src="https://i.imgur.com/pVdQFGL.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
