@@ -100,3 +100,5 @@ Right click on the page and create a New Alias (CNAME). Name the alias search an
 <p>
 In the Client vm ping search and observe the results
 <p>
+<img src="https://i.imgur.com/7ZIOgI1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
