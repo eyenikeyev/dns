@@ -42,3 +42,9 @@ In the Client vm open Command Prompt and ping mainframe, you will notice that it
 <p>
 The same results happens if we attempt an nslookup of the mainframe (command line nslookup mainframe) because we do not have a DNS record
 <p>
+To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
+<p>
+Right click on the page and create a New Host (A or AAA). Name the host mainframe and IP Address the same as domain controller. Then Add Host and refresh the DNS server so the new record can be upudated.
+<p>
+<img src="https://i.imgur.com/56KGMBo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
