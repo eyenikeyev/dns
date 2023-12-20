@@ -110,3 +110,4 @@ Enter ipconfig /displaydns, notice theres too much cache. Then enter ipconfig /f
 <p>
 <img src="https://i.imgur.com/d34gHA8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+This is the conclusion of the lab
