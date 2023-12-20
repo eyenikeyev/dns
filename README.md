@@ -40,3 +40,5 @@ In the Client vm open Command Prompt and ping mainframe, you will notice that it
 </p>
 <img src="https://i.imgur.com/wYl4OlK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+The same results happens if we attempt an nslookup of the mainframe (command line nslookup mainframe) because we do not have a DNS record
+<p>
