@@ -94,5 +94,5 @@ A canonical name (CNAME) record points from a domain to another domain, never to
 <p>
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 
-Right click on the page and create a New Alias (CNAME). Name the alias search and the fully qualified domain name to a website such as www.google.com. Enter the information and refresh the DNS server so the new record can be updated
+Right click on the page and create a New Alias (CNAME). Name the alias search and the fully qualified domain name to a website such google. Enter the information and refresh the DNS server so the new record can be updated
 <p>
