@@ -48,3 +48,5 @@ Right click on the page and create a New Host (A or AAA). Name the host mainfram
 <p>
 <img src="https://i.imgur.com/56KGMBo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+In the Client vm on Command Prompt ping mainframe again, you'll see that its resolved
+<img src="https<p>://i.imgur.com/aoIyFEq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
