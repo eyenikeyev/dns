@@ -63,7 +63,7 @@ Perform nslookup
 <h3>Local DNS Cache</h3>
 
 <p>
-  <ul>
+
 Go to Domain Controller vm, on mainframe properties edit the IP Address to 8.8.8.8
 <p>
 
@@ -88,7 +88,7 @@ Ping mainframe again, observe the address of the new record. Enter ipconfig /dis
 <h3>CNAME Record</h3>
 
 <p>
-  <ul>
+
 <p>
 A canonical name (CNAME) record points from an alias domain to a canonical domain. They all must point to a domain, never to an IP Address.
 <p>
