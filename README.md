@@ -68,5 +68,5 @@ Go to Domain Controller vm, on mainframe properties edit the IP Address to 8.8.8
 <p>
 
 </p>
-<img src="https://i.imgur.com/naBbQcK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/naBbQcK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <p>
