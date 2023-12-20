@@ -90,5 +90,5 @@ Ping mainframe again, observe the address of the new record. Enter ipconfig /dis
 <p>
 
 <p>
-A canonical name (CNAME) record points from an alias domain to a canonical domain. They all must point to a domain, never to an IP Address.
+A canonical name (CNAME) record points from a domain to a domain, never to an IP Address.
 <p>
