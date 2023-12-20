@@ -98,9 +98,7 @@ Right click on the page and create a New Alias (CNAME). Name the alias search an
 <p>
 <img src="https://i.imgur.com/vxGCaqR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-In the Client vm ping search and observe the results
+As an example I'm going to show a CNAME record exercise. Go to client vm and ping search, observe the results
 <p>
 <img src="https://i.imgur.com/7ZIOgI1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<p>
-As an example I'm going to show a CNAME record exercise. Go to client vm and ping search, observe the results
 <p>
