@@ -98,7 +98,11 @@ Right click on the page and create a New Alias (CNAME). Name the alias search an
 <p>
 <img src="https://i.imgur.com/vxGCaqR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-As an example I'm going to show a CNAME record exercise. Go to client vm and ping search, observe the results
+As an example I'm going to show a CNAME record exercise. Go to client vm and ping search, observe that it resolves to google which has the ip address
 <p>
 <img src="https://i.imgur.com/7ZIOgI1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Open a web browser, like microsoft edge and enter search.mydomain.com. Notice the certificate didn't match, thats why its displaying an error
+<p>
+<img src="https://i.imgur.com/ctlitY8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
