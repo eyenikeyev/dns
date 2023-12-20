@@ -70,3 +70,5 @@ Go to Domain Controller vm, on mainframe properties edit the IP Address to 8.8.8
 </p>
 <img src="https://i.imgur.com/naBbQcK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <p>
+On the Client vm  ping mainframe, observe that it still pings the mainframes old IP Address, this is because the cache needs to be updated
+<p>
