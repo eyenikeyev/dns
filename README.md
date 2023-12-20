@@ -64,3 +64,7 @@ Perform nslookup
 
 <p>
   <ul>
+Go to Domain Controller vm, on mainframe properties edit the IP Address to 8.8.8.8
+<p>
+
+</p>
