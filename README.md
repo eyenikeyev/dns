@@ -96,3 +96,5 @@ To create a DNS A Record go to the Domain Controller vm and open the DNS Manager
 
 Right click on the page and create a New Alias (CNAME). Name the alias search and the fully qualified domain name to a website such google. Enter the information and refresh the DNS server so the new record can be updated
 <p>
+<img src="https://i.imgur.com/vxGCaqR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
