@@ -38,3 +38,5 @@ Connect and log into the Domain Controller and Client virtual machines as admins
 <p>
 In the Client vm open Command Prompt and ping mainframe, you will notice that it failed.
 </p>
+<img src="https://i.imgur.com/wYl4OlK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
