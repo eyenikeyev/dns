@@ -76,7 +76,7 @@ On the Client vm  ping mainframe, observe that it still pings the mainframes old
 <p>
 Close command prompt and open it as administrator, enter ipconfig /flushdns. Observe that the cache is empty.
 <p>
-<img src="https://i.imgur.com/CKdx9tk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/80gyxkK" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Ping mainframe again, observe the address of the new record. Enter ipconfig /displaydns, observe the A record information
 <img src="https://i.imgur.com/WC4kHRH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
