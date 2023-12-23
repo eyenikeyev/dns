@@ -40,9 +40,13 @@ In the Client vm open Command Prompt and ping mainframe, you will notice that it
 </p>
 <img src="https://i.imgur.com/wYl4OlK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-To understand what happens in this process: Client-1 first checks the local cache, (does it know who mainframe is, when it doesen't find anything in there). no result
+To understand what happens in this process:
 <p>
-It checks the Host File, search for Run and enter C:\windows\system32\drivers\etc\hosts, open with Notepad. Then it checks DNS server attached to the network interface card, it fails. It will ask DC-1 what is mainframe IP Address. Fin ally, the DNS A Records in file are DC-1.mydomain.com - 10.0.0.4. Client-1.mydomain.com - 10.0.0.5. Client 1 figures out I don't know who this is, DNS server doesen't know. Thats when the error message displays on command prompt that ping failed because it can't find an IP Address to ping.
+<li>Client-1 first checks the local cache, (does it know who mainframe is, when it doesen't find anything in there) no result</li>
+<li>It checks the Host File, search for Run and enter C:\windows\system32\drivers\etc\hosts, open with Notepad.</li>
+<li>Then it checks DNS server attached to the network interface card, it fails. It will ask DC-1 what is mainframe IP Address.</li>
+<li>Finally, the DNS A Records in file are DC-1.mydomain.com - 10.0.0.4. Client-1.mydomain.com - 10.0.0.5.</li>
+<li>Client 1 figures out I don't know who this is, DNS server doesen't know. Thats when the error message displays on command prompt that ping failed because it can't find an IP Address to ping.</li>
 <p>
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 <p>
