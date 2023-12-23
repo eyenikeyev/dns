@@ -44,7 +44,7 @@ To understand what happens in this process: Client-1 first checks the local cach
 <p>
 Check Host File, search for Run and enter C:\windows\system32\drivers\etc\hosts, open with Notepad
 <p>
-Check DNS server attached to the network interface card, it fails. It will ask DC-1 what is IP Address.
+Check DNS server attached to the network interface card, it fails. It will ask DC-1 what is mainframe IP Address.
 <p>
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 <p>
