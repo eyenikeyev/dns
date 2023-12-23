@@ -40,7 +40,7 @@ In the Client vm open Command Prompt and ping mainframe, you will notice that it
 </p>
 <img src="https://i.imgur.com/wYl4OlK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-To understand what happens in this process: Client-1 first checks the local cache, no result (does it know who mainframe is, when it doesen't find anything in there)
+To understand what happens in this process: Client-1 first checks the local cache, (does it know who mainframe is, when it doesen't find anything in there). no result
 <p>
 Check Host File, search for Run and enter C:\windows\system32\drivers\etc\hosts, open with Notepad
 <p>
