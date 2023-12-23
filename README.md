@@ -47,7 +47,7 @@ To understand what happens in this process:
 <li>Then it checks DNS server attached to the network interface card, it fails. It will ask DC-1 what is mainframe IP Address.</li>
 <li>Finally, the DNS A Records in file are DC-1.mydomain.com - 10.0.0.4. Client-1.mydomain.com - 10.0.0.5.</li>
 <li>Client 1 figures out I don't know who this is, DNS server doesen't know. Thats when the error message displays on command prompt that ping failed because it can't find an IP Address to ping.</li>
-<ol>
+
 <p>
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 <p>
