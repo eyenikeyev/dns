@@ -49,6 +49,7 @@ To understand what happens in this process:
 <li>Client 1 figures out I don't know who this is, DNS server doesen't know. Thats when the error message displays on command prompt that ping failed because it can't find an IP Address to ping.</li>
 
 <p>
+
 To create a DNS A Record go to the Domain Controller vm and open the DNS Manager. In the Server Manager Board go to the domain created within the Forward Lookup Zones tab (mydomain.com)
 <p>
 Right click on the page and create a New Host (A or AAA). Name the host mainframe and IP Address the same as domain controller. Then Add Host and refresh the DNS server so the new record can be updated.
