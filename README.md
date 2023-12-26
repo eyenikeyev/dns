@@ -91,6 +91,7 @@ Close command prompt and open it as administrator, enter ipconfig /flushdns. Obs
 <img src="https://i.imgur.com/GcGK5cs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Ping mainframe again, observe the address of the new record. Enter ipconfig /displaydns, observe the A record information
+<p>
 <img src="https://i.imgur.com/WC4kHRH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
